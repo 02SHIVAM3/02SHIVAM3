@@ -2,9 +2,10 @@
 <h1 align="center">Hey, I'm Shivam 👨‍💻</h1>
 <h3 align="center">🚀 Software Developer | AI & ML Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AFFD5&width=500&lines=Passionate+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Loves+DSA+%26+System+Design;Always+Learning+New+Tech!+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
+<!-- Typing Animation perfectly centered -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AFFD5&center=true&vCenter=true&width=500&lines=Passionate+Developer+%F0%9F%92%BB;AI+%26+ML+Explorer+%F0%9F%A4%96;Loves+DSA+%26+System+Design;Always+Learning+New+Tech!+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
 ---
 
