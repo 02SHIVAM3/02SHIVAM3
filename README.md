@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me:
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shivam-sharma-6756962b0/)" target="_blank">
+  <a href="https://www.linkedin.com/in/shivam-sharma-6756962b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
