@@ -23,14 +23,8 @@
   <a href="https://www.linkedin.com/in/shivam-sharma-6756962b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
+  <a href="https://leetcode.com/u/SHIVAM_SA/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
