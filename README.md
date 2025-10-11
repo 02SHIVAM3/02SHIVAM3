@@ -49,12 +49,6 @@
 
 ---
 
-# 🏆 Achievements & Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=02SHIVAM3&theme=radical&no-frame=false&no-bg=true&margin-w=15" />
-</p>
-
----
 
 # ✍️ Random Dev Quote:
 <p align="center">
@@ -66,13 +60,6 @@
 # 😂 Random Dev Meme:
 <p align="center">
   <img src="https://random-memer.herokuapp.com/" width="400px"/>
-</p>
-
----
-
-# 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://github.com/02SHIVAM3/02SHIVAM3/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
