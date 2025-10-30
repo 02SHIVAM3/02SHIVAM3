@@ -10,7 +10,7 @@
 ---
 
 ## 💫 About Me:
-- 🌱 Currently learning **Advanced DSA | System Design | AI Agents**  
+- 🧑🏼‍💻 **Data Structures & Algorithm | System Design | React.Js**  
 - 💡 Building projects that solve **real-world problems**  
 - 👯 Looking to collaborate on **AI/ML & Open Source**  
 - 📚 Goal: Become a **Top-tier Software Engineer**  
